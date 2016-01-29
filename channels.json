@@ -44,8 +44,13 @@
       "title": "United Kingdom",
       "channels": [
         {
-          "title": "None",
+          "title": "UK 1",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8",
+          "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
+        },
+        {
+          "title": "UK 2",
+          "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8",
           "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
         }
       ]
@@ -54,8 +59,13 @@
       "title": "Spain",
       "channels": [
         {
-          "title": "None",
+          "title": "Spain 1",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8",
+          "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
+        },
+        {
+          "title": "Spain 2",
+          "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8",
           "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
         }
       ]
@@ -64,8 +74,13 @@
       "title": "Canada",
       "channels": [
         {
-          "title": "None",
+          "title": "Canada 1",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8",
+          "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
+        },
+        {
+          "title": "Canada 2",
+          "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8",
           "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
         }
       ]
@@ -74,8 +89,13 @@
       "title": "Ukrain",
       "channels": [
         {
-          "title": "None",
+          "title": "Ukrain 1",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8",
+          "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
+        },
+        {
+          "title": "Ukrain 2",
+          "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8",
           "thumbnail": "https://raw.githubusercontent.com/WorldwideTV/TVChannels/master/default.png"
         }
       ]
