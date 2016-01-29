@@ -1,8 +1,8 @@
 {
-  "categories": [
+  "countries": [
     {
       "title": "Portuguese",
-      "items": [
+      "channels": [
         {
           "title": "RTP 1",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8"
@@ -35,7 +35,7 @@
     },
     {
       "title": "United Kingdom",
-      "items": [
+      "channels": [
         {
           "title": "None",
           "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8"
